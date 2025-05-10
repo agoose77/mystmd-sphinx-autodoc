@@ -1,3 +1,6 @@
 _build/
 __pycache__/
 /sphinx/xml/
+/sphinx/myst/
+/sphinx/html/
+/node_modules/
